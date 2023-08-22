@@ -1,0 +1,14 @@
+@import './base.css';
+
+#app {
+  
+  margin: 0 auto;
+  padding: 5rem;
+
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'LemonMilkRegular';
+  src: url('../assets/fonts/LEMONMILK-Regular.otf')
+}
